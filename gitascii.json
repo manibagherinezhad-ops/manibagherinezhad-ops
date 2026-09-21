@@ -6,12 +6,12 @@
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 0,
+        "x": 352,
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 500
+        "width": 440,
+        "height": 352
       },
       "config": {
         "lockAspectRatio": false,
@@ -45,12 +45,12 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 0,
-        "y": 516
+        "x": 24,
+        "y": 12
       },
       "size": {
-        "width": 800,
-        "height": 800
+        "width": 328,
+        "height": 328
       },
       "config": {
         "accentColor": "#00ff88",
@@ -31707,11 +31707,11 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 1332
+        "y": 364
       },
       "size": {
         "width": 800,
-        "height": 140
+        "height": 128
       },
       "config": {
         "selectedTechs": [
@@ -31723,11 +31723,11 @@
           "figma",
           "vscode"
         ],
-        "lockAspectRatio": true,
+        "lockAspectRatio": false,
         "accentColor": "#00ff88",
         "customTitle": "Tech Stack",
         "theme": "dark",
-        "perLine": 7
+        "perLine": 8
       },
       "locked": false,
       "visible": true,
@@ -31739,7 +31739,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 1504
+        "y": 516
       },
       "size": {
         "width": 800,
@@ -31767,7 +31767,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 1640
+        "y": 660
       },
       "size": {
         "width": 800,
@@ -31788,7 +31788,7 @@
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 1816
+        "y": 844
       },
       "size": {
         "width": 800,
@@ -31812,7 +31812,7 @@
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 2082
+        "y": 1118
       },
       "size": {
         "width": 800,
@@ -31824,10 +31824,12 @@
         "repoSortBy": "updated",
         "selectedRepos": [
           "Ghost-Of-Tsushima-Tribute-",
-          "Mini-J.-Cole-Fan-Website",
-          "Menu-MegaMenu"
+          "Mini-J.-Cole-Fan-Website"
         ],
-        "lockAspectRatio": true
+        "lockAspectRatio": false,
+        "customTitle": "",
+        "maxRepos": 3,
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
@@ -31839,7 +31841,7 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 0,
-        "y": 2354
+        "y": 1398
       },
       "size": {
         "width": 800,
@@ -31863,7 +31865,7 @@
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 2580
+        "y": 1632
       },
       "size": {
         "width": 800,
@@ -31894,14 +31896,14 @@
     "borderColor": "#30363d",
     "fontFamily": "Inter Tight",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 32,
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790017281386_0ugbl",
-    "updatedAt": "2026-09-21T19:01:22.611Z"
+    "revision": "rev_1790018443794_8hnxq",
+    "updatedAt": "2026-09-21T19:20:45.039Z"
   }
 }
