@@ -1,5 +1,5 @@
 
-<svg width="800" height="624" viewBox="0 0 800 624" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="652" viewBox="0 0 800 652" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="624" fill="#0d1117" rx="0" />
+  <rect class="" width="800" height="652" fill="#0d1117" rx="0" />
 
   
     <g transform="translate(48, 40)" id="widget-widget_1790056866580_0">
@@ -724,6 +724,21 @@
 <text x="22" y="211.06818181818178" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">4 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">4 days</tspan></text>
 <text x="682" y="211.06818181818178" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">12</tspan> on Sep 19, 2026</text>
 </svg>
+  
+    </g>
+  
+
+    <g transform="translate(0, 546)" id="widget-widget_1790056999865">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="90" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="44" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#e6edf3">Mani Bagherinezhad</text>
+    <text x="24" y="72" font-family="'JetBrains Mono', monospace" font-size="14" fill="#ffa657">@manibagherinezhad-ops</text>
+    <text x="776" y="44" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="12" fill="#7a7a7a">[ Parnian Web Design School ]</text>
+  
   
     </g>
   

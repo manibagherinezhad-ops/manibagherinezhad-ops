@@ -11538,6 +11538,23 @@
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1790056866580_2"
+    },
+    {
+      "instanceId": "widget_1790056999865",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 546
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
     }
   ],
   "globalStyles": {
@@ -11554,7 +11571,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790056872244_xhadj",
-    "updatedAt": "2026-09-22T06:01:13.878Z"
+    "revision": "rev_1790057007768_u0p5l",
+    "updatedAt": "2026-09-22T06:03:29.858Z"
   }
 }
