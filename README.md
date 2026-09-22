@@ -1,7 +1,7 @@
 ## Hi, I'm Mani 👋
 
 <!--
-**manibagherinezhad-ops/manibagherinezhad-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+manibagherinezhad-ops/manibagherinezhad-ops is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,11 +12,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/gitascii/profiles/default/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/gitascii/profiles/default/light.svg">
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/main/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/main/github-contribution-grid-snake.svg" width="100%">
 </picture>
