@@ -31695,11 +31695,11 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 0,
+        "x": 46,
         "y": 368
       },
       "size": {
-        "width": 800,
+        "width": 708,
         "height": 140
       },
       "config": {
@@ -31712,12 +31712,76 @@
           "figma",
           "vscode"
         ],
-        "customTitle": "Tech Stack",
-        "borderColor": "#ff4a4a"
+        "customTitle": "[ TECH STACK ]",
+        "borderColor": "#ff4a4a",
+        "perLine": 7
       },
       "locked": false,
       "visible": true,
       "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1790058418385",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 46,
+        "y": 660
+      },
+      "size": {
+        "width": 708,
+        "height": 160
+      },
+      "config": {
+        "borderColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1790058458823",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 46,
+        "y": 836
+      },
+      "size": {
+        "width": 708,
+        "height": 210
+      },
+      "config": {
+        "borderColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1790058499127",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 46,
+        "y": 524
+      },
+      "size": {
+        "width": 708,
+        "height": 120
+      },
+      "config": {
+        "statsStyle": "terminal",
+        "labelStyle": "label",
+        "borderColor": "#ff4a4a",
+        "hideMetrics": [
+          "forks",
+          "gists"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -31735,7 +31799,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790057889755_0jdrr",
-    "updatedAt": "2026-09-22T06:18:11.640Z"
+    "revision": "rev_1790058670344_jcheg",
+    "updatedAt": "2026-09-22T06:31:12.677Z"
   }
 }
