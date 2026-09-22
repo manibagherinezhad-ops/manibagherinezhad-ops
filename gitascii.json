@@ -31800,7 +31800,8 @@
         "customTitle": "Contribution Snake",
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "lockAspectRatio": true
+        "lockAspectRatio": true,
+        "branch": "main"
       },
       "locked": false,
       "visible": true,
@@ -31903,7 +31904,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790018443794_8hnxq",
-    "updatedAt": "2026-09-21T19:20:45.039Z"
+    "revision": "rev_1790055425364_4tyqb",
+    "updatedAt": "2026-09-22T05:37:07.339Z"
   }
 }
