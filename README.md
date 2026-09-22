@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mani 👋
 
 <!--
 **manibagherinezhad-ops/manibagherinezhad-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
