@@ -31650,7 +31650,8 @@
         "detail": "ultra",
         "charset": "retro",
         "borderColor": "transparent",
-        "backgroundColor": "github-auto"
+        "backgroundColor": "github-auto",
+        "customWhoami": "LeMani"
       },
       "locked": false,
       "visible": true,
@@ -31799,7 +31800,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790060619208_0brwk",
-    "updatedAt": "2026-09-22T07:03:41.818Z"
+    "revision": "rev_1790060888654_l9rrd",
+    "updatedAt": "2026-09-22T07:08:10.766Z"
   }
 }
