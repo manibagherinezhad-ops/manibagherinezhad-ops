@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/manibagherinezhad-ops/manibagherinezhad-ops/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
-<>
+<br>
 
 ## 🐍 Contribution Snake
 
